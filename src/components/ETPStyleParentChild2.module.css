@@ -1,0 +1,20 @@
+.parentDiv {
+  background-color: salmon;
+  width: 80%;
+  margin: 20px auto;
+  border: 5px solid black;
+  border-radius: 25px;
+  text-align: center;
+}
+
+.childDiv {
+  background-color: rgb(184, 184, 255);
+  width: 80%;
+  margin: 20px auto;
+  border: 5px solid black;
+  border-radius: 25px;
+}
+
+li{
+  text-align: left;
+}

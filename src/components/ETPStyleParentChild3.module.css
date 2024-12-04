@@ -1,0 +1,33 @@
+/* src/ChildComponent.css */
+.table-container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.fruit-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+  font-size: 35px;
+}
+
+.fruit-table th, .fruit-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.fruit-table th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.fruit-table tr:nth-child(even) {
+  background-color: #e6d85b;
+}
+
+.fruit-table tr:hover {
+  background-color: #ddd;
+}

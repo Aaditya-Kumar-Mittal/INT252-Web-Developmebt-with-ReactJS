@@ -1,0 +1,17 @@
+.container {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.title {
+  font-size: 24px;
+  color: red;
+  font-family: monospace;
+}
+
+.para {
+  font-size: 20px;
+  color: blue;
+  font-family: sans-serif;
+}

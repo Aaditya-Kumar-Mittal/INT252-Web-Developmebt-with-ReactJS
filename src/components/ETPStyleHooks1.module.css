@@ -1,0 +1,23 @@
+.stateDiv{
+  background-color: rgb(45, 45, 45);
+  margin: 50px auto;
+  width: 40%;
+  font-style: monospace;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 25px;
+  border: 5px solid red;
+}
+
+button{
+  margin: 25px;
+  background-color: rgb(17, 212, 226);
+  border: none;
+  padding: 15px;
+  border-radius: 25px;
+  font-weight: bold;
+}
